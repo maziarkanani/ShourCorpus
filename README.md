@@ -1,4 +1,4 @@
-# ShourCorpus
+# ShourCorpus [1]
 non-metric symbolic Iranian classical music corpus
 
 ### Overview
@@ -21,3 +21,6 @@ This project is open-source and allows for free use of the dataset.
 
 ### Funding
 This work was conducted with the financial support of the Science Foundation Ireland Centre for Research Training in Digitally-Enhanced Reality (d-real) under Grant No. 18/CRT/6224.
+
+----------------------------------
+[1]  Grammatical Structure and Grammatical Variations in Non-Metric Iranian Classical Music. (n.d.). AIMC 2024 (09/09 - 11/09 ). Retrieved from https://aimc2024.pubpub.org/pub/zwn5frts
